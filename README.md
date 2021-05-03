@@ -29,4 +29,3 @@ Rest of required packages in requirements.txt file
 
 ## Setup
 To run the project download the entire repository and unzip it. Then install all required packages listed in requirements.txt and run the file Car_price_notebook.ipynb
-Alternatively, a preview version of the notebook is available, saved in html.
