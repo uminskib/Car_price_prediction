@@ -1,6 +1,6 @@
 # Car price prediction - data science project
 
-##Introduction
+## Introduction
 
 The repository contains a data science project based on a database that comes from the [Kaggle](https://www.kaggle.com/CooperUnion/cardataset)
 The database, called Car Features and MSRP, contains 11914 car models sold in the U.S. between 1990 and 2018.Each car is described by 16 variables.
@@ -16,7 +16,7 @@ The structure of the project is as follows:
 
 Project created to test and solidify skills in using pandas, scikit-learn and seaborn tools. It constitutes a project for portfolio.
 
-##Technologies
+## Technologies
 
 * Python 3.9.2
 * pandas 1.1.3
@@ -27,6 +27,6 @@ Project created to test and solidify skills in using pandas, scikit-learn and se
 
 Rest of required packages in requirements.txt file
 
-##Setup
+## Setup
 To run the project download the entire repository and unzip it. Then install all required packages listed in requirements.txt and run the file Car_price_notebook.ipynb
 Alternatively, a preview version of the notebook is available, saved in html.
