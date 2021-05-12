@@ -33,7 +33,7 @@ To run the project:
 2. Install the required packages included in the requirements.txt file:
      * Launch any command-line interface (e.g. Anaconda Prompt).
      * If you have one, set up a custom virtual environment for the program in which the project will run.
-     * Set the destination path to the folder with the project: "cd <destination path to project>"
+     * Set the destination path to the folder with the project: "cd 'your destination path to project'"
      * Type "pip install -r requirements.txt".
 3. Start Jupyter Notebook or LupyterLab and select the file Car_price_notebook.ipynb
 4. Run all cells
