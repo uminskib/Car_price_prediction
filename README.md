@@ -28,7 +28,8 @@ Project created to test and solidify skills in using pandas, scikit-learn and se
 Rest of required packages in requirements.txt file
 
 ## Setup
-To run the project: 1. Download the entire repository and unzip it.
+To run the project: 
+1. Download the entire repository and unzip it.
 2. Install the required packages included in the requirements.txt file:
      * Launch command-line interface or Anaconda Prompt.
      * If you have one, set up a custom virtual environment for the program in which the project will run.
